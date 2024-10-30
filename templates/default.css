@@ -1,0 +1,18 @@
+body {
+	max-width: 800px;
+}
+
+#blogtopdf {
+	padding-top: 40px;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+.blogtopdf-title {
+	padding: 50px;
+}
+
+
+#blogtopdf-toc {
+	/*page-break-before: always;*/
+}
